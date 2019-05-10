@@ -1,6 +1,6 @@
 package basic;
 import java.util.Scanner;
-public class aka1 {
+public class name {
 	private static Scanner input;
 
 	public static void main(String []args) {

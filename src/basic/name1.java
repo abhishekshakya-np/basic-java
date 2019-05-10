@@ -1,6 +1,6 @@
 package basic;
 
-public class Aka {
+public class name1 {
 	public static void main(String args []) {
 		System.out.println("hello");
 		System.out.println("abishek shakya");
